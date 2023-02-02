@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+STitch3D
+=========================================================
+3D reconstruction of tissues.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
+STitch3D Tutorial
+==================
 .. toctree::
-
-   usage
-   api
+   :maxdepth: 2
+   
+   installation/index.rst
+   api/index.rst
+   tutorials/index.rst
