@@ -2,16 +2,17 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Portal'
+copyright = '2022, Jia Zhao & Gefei Wang'
+author = 'Jia Zhao & Gefei Wang'
 
-release = '0.1'
-version = '0.1.0'
+release = 'v1.0.2'
+version = 'v1.0.2'
 
 # -- General configuration
 
 extensions = [
+    'nbsphinx',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
