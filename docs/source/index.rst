@@ -7,6 +7,4 @@ STitch3D Tutorial
 .. toctree::
    :maxdepth: 2
    
-   installation/index.rst
-   api/index.rst
    tutorials/index.rst
