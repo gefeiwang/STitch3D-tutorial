@@ -5,6 +5,6 @@ STitch3D
 STitch3D Tutorial
 ==================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    
    tutorials/index.rst
