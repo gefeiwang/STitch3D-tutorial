@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Portal'
-copyright = '2022, Jia Zhao & Gefei Wang'
-author = 'Jia Zhao & Gefei Wang'
+project = 'STitch3D'
+copyright = '2023, Gefei Wang & Jia Zhao'
+author = 'Gefei Wang & Jia Zhao'
 
-release = 'v1.0.2'
-version = 'v1.0.2'
+release = 'v1.0.0'
+version = 'v1.0.0'
 
 # -- General configuration
 
