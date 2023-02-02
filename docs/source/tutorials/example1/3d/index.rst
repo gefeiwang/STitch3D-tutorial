@@ -3,4 +3,4 @@
 =========================================================
 
 .. raw:: html
-   :file: rmd.html
+   :file: mouse_brain_layers_3d.html
