@@ -2,6 +2,8 @@
 Example1
 =========================================================
 
-.. raw:: html
-   :file: html.html
-   :file: rmd.html
+.. toctree::
+   :maxdepth: 2
+   
+   run/index.rst
+   3d/index.rst
