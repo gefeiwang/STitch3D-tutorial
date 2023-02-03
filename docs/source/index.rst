@@ -19,4 +19,4 @@ STitch3D Installation
 .. toctree::
    :maxdepth: 2
 
-   installation
+   installation.rst
