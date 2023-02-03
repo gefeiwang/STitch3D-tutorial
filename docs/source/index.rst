@@ -12,3 +12,11 @@ STitch3D Tutorial
    :maxdepth: 3
    
    tutorials/index.rst
+   
+
+STitch3D Installation
+==================
+.. toctree::
+   :maxdepth: 2
+
+   installation
