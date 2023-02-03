@@ -1,4 +1,4 @@
-Interactive 3D visualization of STitch3D's reconstructed curve-shaped distributions of four hippocampal neuron types
+3D visualization of STitch3D's reconstructed curve-shaped distributions of four hippocampal neuron types
 =========================================================
 
 .. raw:: html
