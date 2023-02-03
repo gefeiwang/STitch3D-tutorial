@@ -1,4 +1,4 @@
-3D visualization of STitch3D's constructed central nervous system
+3D visualization of STitch3D's constructed embryo central nervous system
 =========================================================
 
 .. raw:: html
