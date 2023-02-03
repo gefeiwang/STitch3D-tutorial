@@ -18,3 +18,10 @@ STitch3D Installation
    :maxdepth: 2
 
    installation.rst
+
+STitch3D Usage
+==================
+.. toctree::
+   :maxdepth: 2
+   
+   usage.rst
