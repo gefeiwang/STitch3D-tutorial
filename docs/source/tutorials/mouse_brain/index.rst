@@ -1,4 +1,4 @@
-Example 2: adult mouse brain dataset.
+Example 1: adult mouse brain dataset.
 =========================================================
 
 .. toctree::
