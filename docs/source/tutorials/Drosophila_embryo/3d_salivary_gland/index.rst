@@ -1,4 +1,4 @@
-3D visualization of STitch3D's constructed salivary gland
+3D visualization of STitch3D's constructed embryo salivary gland
 =========================================================
 
 .. raw:: html
