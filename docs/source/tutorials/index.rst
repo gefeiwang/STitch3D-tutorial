@@ -7,3 +7,4 @@ Tutorials and interactive 3D results
    
    DLPFC/index.rst
    mouse_brain/index.rst
+   human_heart/index.rst
