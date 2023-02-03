@@ -5,14 +5,12 @@ We developed STitch3D, a deep learning-based method for 3D reconstruction of tis
 .. image:: images/Overview.jpg
    :width: 600
 
-
 STitch3D Tutorial
 ==================
 .. toctree::
    :maxdepth: 3
    
    tutorials/index.rst
-   
 
 STitch3D Installation
 ==================
