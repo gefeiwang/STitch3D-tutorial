@@ -1,4 +1,4 @@
-Example 3: human embryonic heart dataset.
+Example 2: human embryonic heart dataset.
 =========================================================
 
 .. toctree::
