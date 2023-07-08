@@ -6,8 +6,8 @@ project = 'STitch3D'
 copyright = '2023, Gefei Wang & Jia Zhao'
 author = 'Gefei Wang & Jia Zhao'
 
-release = 'v1.0.0'
-version = 'v1.0.0'
+release = 'v1.0.3'
+version = 'v1.0.3'
 
 # -- General configuration
 
