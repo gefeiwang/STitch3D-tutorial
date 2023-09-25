@@ -9,3 +9,4 @@ Tutorials and interactive 3D results
    human_heart/index.rst
    Drosophila_embryo/index.rst
    DLPFC/index.rst
+   breast_cancer/index.rst
